@@ -16,10 +16,10 @@
 افتح التيرمينال الخاص بك والصق الأمر التالي:
 
 ```bash
-git clone git@github.com:owakcx2014/c00l-zsh.git
+git clone https://github.com/owakcx2014/c00l-zsh.git
 cd c00l-zsh
 chmod +x install.sh
 ./install.sh
 ```
-اختر نوع نظام التشغيل arch/Debian/Fedora وأدخل كلمة المرور واضغط y اذا سألك
+اختر نوع نظام التشغيل arch/Debian/Fedora وأدخل كلمة المرور واضغط y اذا سألك،
 بعد التثبيت ستجد ملف اسمه `zsh shortcuts.txt` في مجلد المنزل (~) هكذا `~/zsh shortcuts.txt` اقرأه واستمتع بالـZSh الرائع!!
